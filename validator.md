@@ -1,5 +1,5 @@
 # mahof
-I am an old GPU,CPU,HDD miner,hate asics,mined so far ltc,eth,etc,xmr,zec,grft,ints,sc,xvg,gin,web,pirl,trtl,pars,xdrop,mtip,blur,btr,ngin,mcm,vbk,rito,bitc,grin,beam,vol,ccx,chia,lhd,bhd...
+I was GPU,CPU,HDD miner since 2016 ,hate asics,mined so far ltc,eth,etc,xmr,zec,grft,ints,sc,xvg,gin,web,pirl,trtl,pars,xdrop,mtip,blur,btr,ngin,mcm,vbk,rito,bitc,grin,beam,vol,ccx,chia,lhd,bhd...
 I have my own small datacenter,no problem of hardware and internet all are backed up.
 Since 2019 I am more involved in operating nodes on POS networks and testnets
 
@@ -35,7 +35,11 @@ PALOMA TESTNET- https://paloma.explorers.guru/validator/palomavaloper1tsu8nthusp
 
 
 website:https://mahof.info
+
 twitter: https://twitter.com/ETCMINER
+
 discord: mahof#6504
+
 tg: t.me/mahof
+
 mail: info@mahof.info
