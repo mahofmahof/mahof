@@ -13,6 +13,8 @@ LUM-NETWORK MAINNET- https://www.mintscan.io/lum/validators/lumvaloper14mdwsawe2
 
 REBUS MAINNET- https://rebus.explorers.guru/validator/rebusvaloper1xelmyll45mupnfku4cvhxc76ddt0ejk3l8mm64
 
+LAMBDA MAINNET - https://explorer.nodestake.top/lambda/staking/lambvaloper1ha77vsfv2kycytsvrq8kqwws95v8a3dqd6ktnt
+
 MINA PROTOCOL MAINNET- https://minaexplorer.com/wallet/B62qrr4HsyQDc8BHf875XHizovkMqfXYKFxqxdcLPNahHnz1GZqCmXL
 
 AVALANCHE MAINNET MAINNET- https://vscout.io/validator/NodeID-N4r8sLfeDVa2c9eDFpE4wuxJccUku3LKu
