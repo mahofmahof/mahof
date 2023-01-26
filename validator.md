@@ -4,6 +4,7 @@ I have my own small datacenter,no problem of hardware and internet all are backe
 Since 2019 I am more involved in operating nodes on POS networks and testnets
 
 NODES
+QUICKSILVER MAINNET- https://www.mintscan.io/quicksilver/validators/quickvaloper1q9v6hc00w5g33crt4u3jywdd5guu4ym5hpazpq
 
 GENESISL1 MAINNET- https://ping.pub/genesisl1/staking/genesisvaloper1lrx3mrvna9urqcmsph3yffhrea4pj4tefmuzr3
 
