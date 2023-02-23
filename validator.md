@@ -51,6 +51,9 @@ UPTICK TESTNET - https://uptick.explorers.guru/validator/uptickvaloper1pwjt96sau
 
 MUN TESTNET - https://blockexplorer.mun.money/validators/munvaloper1py6acxj4d2l4694kyqj34mwhgr5f04pyvr0v2w
 
+CELESTIA TESTNET - https://celestia.explorers.guru/validator/celestiavaloper159aprf7gl0u8vqkle6jwkkthkm2vxz9nxzmr2d
+
+SUBSPACE TESTNET - https://telemetry.subspace.network/#list/0x43d10ffd50990380ffe6c9392145431d630ae67e89dbc9c014cac2a417759101
 
 
 
