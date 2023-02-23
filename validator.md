@@ -4,6 +4,7 @@ I have my own small datacenter,no problem of hardware and internet all are backe
 Since 2019 I am more involved in operating nodes on POS networks and testnets
 
 NODES
+
 QUICKSILVER MAINNET- https://www.mintscan.io/quicksilver/validators/quickvaloper1q9v6hc00w5g33crt4u3jywdd5guu4ym5hpazpq
 
 GENESISL1 MAINNET- https://ping.pub/genesisl1/staking/genesisvaloper1lrx3mrvna9urqcmsph3yffhrea4pj4tefmuzr3
@@ -20,6 +21,14 @@ MINA PROTOCOL MAINNET- https://minaexplorer.com/wallet/B62qrr4HsyQDc8BHf875XHizo
 
 AVALANCHE MAINNET MAINNET- https://vscout.io/validator/NodeID-N4r8sLfeDVa2c9eDFpE4wuxJccUku3LKu
 
+PALOMA MAINNET- https://paloma.explorers.guru/validator/palomavaloper1tsu8nthuspe4zlkejtj3v27rtq8qz7q6983zt2
+
+ACRE ARABLE MAINNET - https://cosmosrun.info/acre-mainnet/staking/acrevaloper1q5vr928zqzf46u0nlat9p9td8pj4q6427tfyzc
+
+LOYAL MAINNET - https://pingpub.joinloyal.io/loyal/staking/loyalvaloper1ztqdpx8nd4dcndqhylw4248u06gje9d9vpu6sd
+
+CHAIN4ENERGY MAINNET- https://explorer.c4e.io/validators/c4evaloper1s2gyvyqkurus4vuavse6tgk825w56jup63j3mt
+
 AVALANCHE FUJI TESTNET- https://testnet.avascan.info/staking/validator/NodeID-P9yRtLZZqUSqW3XiLfVnD2pGiAwm3ktBU
 
 OBOL-GOERLI TESTNET https://prater.beaconcha.in/validator/0xb1fbb81e68cd47822c19e649b29ca514bdf4e8c3e162fb7de8628808770f721afb60800de19379eabda151c74ce4aeba#deposits
@@ -32,6 +41,15 @@ DECENTRALISED WEB SERVICES TESTNET - https://dws.explorers.guru/validator/dewebv
 
 PALOMA TESTNET- https://paloma.explorers.guru/validator/palomavaloper1tsu8nthuspe4zlkejtj3v27rtq8qz7q6983zt2
 
+HUMANSAI -TESTNET - https://explorer.humans.zone/humans-testnet/staking/humanvaloper1phesvrqz2ywccm72lqfk60z0xjrzsylfk3zvzh
+
+NOIS TESTNET - https://randomness.nois.network/?highlighted=nois1lagqlmjykjthpp30ft7w7fp9rcjx0f76zkt3gg
+
+LAVA TESTNET - https://lava.explorers.guru/validator/lava@valoper16slsjlavjlm8ganzrqtqhm8tnzj7w3xqs3gs7j
+
+UPTICK TESTNET - https://uptick.explorers.guru/validator/uptickvaloper1pwjt96saucysrnwqnzng853g4v2hn6d887lgpg
+
+MUN TESTNET - https://blockexplorer.mun.money/validators/munvaloper1py6acxj4d2l4694kyqj34mwhgr5f04pyvr0v2w
 
 
 
