@@ -52,6 +52,8 @@ NOIS TESTNET - https://randomness.nois.network/?highlighted=nois1lagqlmjykjthpp3
 
 LAVA TESTNET - https://lava.explorers.guru/validator/lava@valoper16slsjlavjlm8ganzrqtqhm8tnzj7w3xqs3gs7j
 
+LAVA PROVIDER - https://lava.explorers.guru/validator/lava@valoper16slsjlavjlm8ganzrqtqhm8tnzj7w3xqs3gs7j
+
 UPTICK TESTNET - https://uptick.explorers.guru/validator/uptickvaloper1pwjt96saucysrnwqnzng853g4v2hn6d887lgpg
 
 MUN TESTNET - https://blockexplorer.mun.money/validators/munvaloper1py6acxj4d2l4694kyqj34mwhgr5f04pyvr0v2w
