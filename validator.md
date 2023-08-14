@@ -32,6 +32,9 @@ CHAIN4ENERGY MAINNET- https://explorer.c4e.io/validators/c4evaloper1s2gyvyqkurus
 
 QWOYN MAINNET - https://explorer.kjnodes.com/qwoyn/staking/qwoynvaloper1gtwva9rpnwpeeye7luz2e5h4ea6d2y5xagu2qk
 
+UPTICK MAINNET- 
+https://uptick.explorers.guru/validator/uptickvaloper1pwjt96saucysrnwqnzng853g4v2hn6d887lgpg
+
 MUN MAINNET- https://explorer.nodestake.top/mun/staking/munvaloper1py6acxj4d2l4694kyqj34mwhgr5f04pyvr0v2w
 
 AVALANCHE FUJI TESTNET- https://testnet.avascan.info/staking/validator/NodeID-P9yRtLZZqUSqW3XiLfVnD2pGiAwm3ktBU
