@@ -72,7 +72,7 @@ website:https://mahof.info
 
 twitter: https://twitter.com/ETCMINER
 
-discord: mahof#6504
+discord: mahof#6504 (mahof)
 
 tg: t.me/mahof
 
