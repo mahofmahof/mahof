@@ -4,7 +4,7 @@ I have my own small datacenter,no problem of hardware and internet all are backe
 Since 2019 I am more involved in operating nodes on POS networks and testnets
 
 NODES
-ETHEREUM MAINNET- OBOL DVT 7/5- https://beaconcha.in/validator/955f2e30ca0f5bfb7856c3b19d99ea5b020e1fe639be2bacd146abae9f7b3a2376c1ad778546ebeee4f5542209139e85
+ETHEREUM MAINNET- OBOL DVT 7/5 BLOCKSEAL- https://beaconcha.in/validator/955f2e30ca0f5bfb7856c3b19d99ea5b020e1fe639be2bacd146abae9f7b3a2376c1ad778546ebeee4f5542209139e85
 
 QUICKSILVER MAINNET- https://www.mintscan.io/quicksilver/validators/quickvaloper1q9v6hc00w5g33crt4u3jywdd5guu4ym5hpazpq
 
