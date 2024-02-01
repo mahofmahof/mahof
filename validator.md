@@ -65,6 +65,7 @@ CELESTIA TESTNET - https://celestia.explorers.guru/validator/celestiavaloper159a
 
 SUBSPACE TESTNET - https://telemetry.subspace.network/#list/0x43d10ffd50990380ffe6c9392145431d630ae67e89dbc9c014cac2a417759101
 
+C4E TESTNET - https://explorer-testnet.c4e.io/validators/c4evaloper1j9uesupxqfavvzua80ws3dk5uycknvw8gscwa3
 
 
 
