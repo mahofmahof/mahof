@@ -4,7 +4,11 @@ I have my own small datacenter,no problem of hardware and internet all are backe
 Since 2019 I am more involved in operating nodes on POS networks and testnets
 
 NODES
-ETHEREUM MAINNET- OBOL DVT 5/7 threshoold BLOCKSEAL- https://beaconcha.in/validator/955f2e30ca0f5bfb7856c3b19d99ea5b020e1fe639be2bacd146abae9f7b3a2376c1ad778546ebeee4f5542209139e85
+ETHEREUM MAINNET- OBOL DVT name-BLOCKSEAL- https://beaconcha.in/validator/955f2e30ca0f5bfb7856c3b19d99ea5b020e1fe639be2bacd146abae9f7b3a2376c1ad778546ebeee4f5542209139e85
+
+AVALANCHE MAINNET MAINNET- https://vscout.io/validator/NodeID-N4r8sLfeDVa2c9eDFpE4wuxJccUku3LKu
+
+MINA PROTOCOL MAINNET- https://minaexplorer.com/wallet/B62qrr4HsyQDc8BHf875XHizovkMqfXYKFxqxdcLPNahHnz1GZqCmXL
 
 QUICKSILVER MAINNET- https://www.mintscan.io/quicksilver/validators/quickvaloper1q9v6hc00w5g33crt4u3jywdd5guu4ym5hpazpq
 
@@ -18,17 +22,13 @@ REBUS MAINNET- https://rebus.explorers.guru/validator/rebusvaloper1xelmyll45mupn
 
 LAMBDA MAINNET - https://explorer.nodestake.top/lambda/staking/lambvaloper1ha77vsfv2kycytsvrq8kqwws95v8a3dqd6ktnt
 
-MINA PROTOCOL MAINNET- https://minaexplorer.com/wallet/B62qrr4HsyQDc8BHf875XHizovkMqfXYKFxqxdcLPNahHnz1GZqCmXL
-
-AVALANCHE MAINNET MAINNET- https://vscout.io/validator/NodeID-N4r8sLfeDVa2c9eDFpE4wuxJccUku3LKu
-
 PALOMA MAINNET- https://paloma.explorers.guru/validator/palomavaloper1tsu8nthuspe4zlkejtj3v27rtq8qz7q6983zt2
 
 ACRE ARABLE MAINNET - https://cosmosrun.info/acre-mainnet/staking/acrevaloper1q5vr928zqzf46u0nlat9p9td8pj4q6427tfyzc
 
 LOYAL MAINNET - https://pingpub.joinloyal.io/loyal/staking/loyalvaloper1ztqdpx8nd4dcndqhylw4248u06gje9d9vpu6sd
 
-CHAIN4ENERGY MAINNET- https://explorer.c4e.io/validators/c4evaloper1s2gyvyqkurus4vuavse6tgk825w56jup63j3mt
+C4E MAINNET- https://explorer.c4e.io/validators/c4evaloper1s2gyvyqkurus4vuavse6tgk825w56jup63j3mt
 
 QWOYN MAINNET - https://explorer.kjnodes.com/qwoyn/staking/qwoynvaloper1gtwva9rpnwpeeye7luz2e5h4ea6d2y5xagu2qk
 
