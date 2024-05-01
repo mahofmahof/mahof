@@ -6,7 +6,7 @@ Since 2019 I am more involved in operating nodes on POS networks and testnets
 NODES
 ETHEREUM MAINNET- OBOL DVT name-BLOCKSEAL- https://beaconcha.in/validator/955f2e30ca0f5bfb7856c3b19d99ea5b020e1fe639be2bacd146abae9f7b3a2376c1ad778546ebeee4f5542209139e85
 
-LIDO ETHEREUM DVT-NOM https://beaconcha.in/dashboard?validators=1372330,1372331,1372332,1372333,1372334
+LIDO ETHEREUM DVT-NO https://beaconcha.in/dashboard?validators=1372330,1372331,1372332,1372333,1372334
 
 AVALANCHE MAINNET MAINNET- https://vscout.io/validator/NodeID-N4r8sLfeDVa2c9eDFpE4wuxJccUku3LKu
 
