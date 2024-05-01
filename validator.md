@@ -67,7 +67,13 @@ SUBSPACE TESTNET - https://telemetry.subspace.network/#list/0x43d10ffd50990380ff
 
 C4E TESTNET - https://explorer-testnet.c4e.io/validators/c4evaloper1j9uesupxqfavvzua80ws3dk5uycknvw8gscwa3
 
+AVAIL KATE TESTNET
 
+AVAIL GOLDBERG TESTNET
+
+AVAIL TURING TESTNET
+
+TANSSI DANCEBOX TESTNET - https://apps.tanssi.network/staking
 
 website:https://mahof.info
 
