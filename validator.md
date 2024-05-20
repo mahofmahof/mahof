@@ -77,6 +77,8 @@ AVAIL TURING TESTNET
 
 TANSSI DANCEBOX TESTNET - https://apps.tanssi.network/staking
 
+INITIA TESTNET - https://scan.testnet.initia.xyz/initiation-1/validators/initvaloper1av99dwjjjzf65xc9m02mwur7ja2esypt7c4ma
+
 website:https://mahof.info
 
 twitter: https://twitter.com/ETCMINER
