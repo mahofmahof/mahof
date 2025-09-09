@@ -1,6 +1,6 @@
 # mahof
 I was GPU,CPU,HDD miner since 2016 ,hate asics,mined so far ltc,eth,etc,xmr,zec,grft,ints,sc,xvg,gin,web,pirl,trtl,pars,xdrop,mtip,blur,btr,ngin,mcm,vbk,rito,bitc,grin,beam,vol,ccx,chia,lhd,bhd,XPOW
-I have my own small datacenter,no problem of hardware and internet all are backed up.
+I have my own small datacenter,hardware and internet all are backed up.
 Since 2019 I am more involved in operating nodes on POS networks and testnets
 
 NODES
