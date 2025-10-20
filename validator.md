@@ -83,6 +83,10 @@ TANSSI DANCEBOX TESTNET - https://apps.tanssi.network/staking
 
 INITIA TESTNET - https://scan.testnet.initia.xyz/initiation-1/validators/initvaloper1av99dwjjjzf65xc9m02mwur7ja2esypt7c4ma
 
+INFERENCE SUPPLY(Former Kuzco) - https://stake.devnet.inference.net/operator/CtoV6FBMcJroHUsSu6VHLw7vZ1S7SWrWfxFARNswEan3/overview
+
+
+
 website:https://mahof.info
 
 twitter: https://twitter.com/ETCMINER
